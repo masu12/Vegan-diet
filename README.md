@@ -1,1 +1,1 @@
-# Vegan-diet
+Vegan diet
